@@ -1,4 +1,4 @@
-#👨 Face Recognition Attendance System
+# 👨 Face Recognition Attendance System
 
 A web-based attendance system using facial recognition, built with React (frontend) and FastAPI (backend).
 
